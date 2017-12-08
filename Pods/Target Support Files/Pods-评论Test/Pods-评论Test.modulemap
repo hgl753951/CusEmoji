@@ -1,0 +1,6 @@
+framework module Pods___Test {
+  umbrella header "Pods-评论Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
